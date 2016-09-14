@@ -1,2 +1,2 @@
-# Laravel.5.2_kikermaster300
-Laravel score 
+# Laravel 5.2 Kikermaster300
+Aplication for tracking all games and player statistics.
