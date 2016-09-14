@@ -18,7 +18,7 @@ Home:
 	![Home](https://raw.githubusercontent.com/dzheyhan/Laravel.5.2_kikermaster300/master/public/images/GitHubImages/Home.jpg)
 	
 1vs1 and 2vs2:
-	![Home]()
+	![Home](https://raw.githubusercontent.com/dzheyhan/Laravel.5.2_kikermaster300/master/public/images/GitHubImages/1vs1_2vs2.jpg)
 
 Individual statistics:
 	![Home](https://raw.githubusercontent.com/dzheyhan/Laravel.5.2_kikermaster300/master/public/images/GitHubImages/Individual_Player_games%20.jpg)
