@@ -19,7 +19,7 @@
       <div class="item">
         <img src="http://placehold.it/1900x400" alt="900x500" >
         <div class="carousel-caption">
-          <h3>Trimexa</h3>
+          <h3>Games</h3>
           <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
         </div>
       </div>
