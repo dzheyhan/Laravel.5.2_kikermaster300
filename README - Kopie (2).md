@@ -28,12 +28,6 @@ Top 10 Players:
 	
 Show all Games:
 	![Home](https://raw.githubusercontent.com/dzheyhan/Laravel.5.2_kikermaster300/master/public/images/GitHubImages/games.jpg)
-	Show all Games:
-	![Home](https://raw.githubusercontent.com/dzheyhan/Laravel.5.2_kikermaster300/master/public/images/GitHubImages/games.jpg)
-	Show all Games:
-	![Home](https://raw.githubusercontent.com/dzheyhan/Laravel.5.2_kikermaster300/master/public/images/GitHubImages/games.jpg)
-	Show all Games:
-	![Home](https://raw.githubusercontent.com/dzheyhan/Laravel.5.2_kikermaster300/master/public/images/GitHubImages/games.jpg)
 	
 	![Home](https://raw.githubusercontent.com/dzheyhan/Laravel.5.2_kikermaster300/master/public/images/GitHubImages/games.jpg)
 		![Home](https://raw.githubusercontent.com/dzheyhan/Laravel.5.2_kikermaster300/master/public/images/GitHubImages/games.jpg)
